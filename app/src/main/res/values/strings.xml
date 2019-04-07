@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Lat1_AKB12_10116551_DivianAjiePermana</string>
+    <string name="button">Mulai</string>
+    <string name="monitory_membantu_anda_mengatur_hp_anak">Monitory Membantu Anda Mengatur HP Anak</string>
+    <string name="todo">TODO</string>
+    <string name="monitori_membantu_anda">Monitori Membantu Anda\nMengatur HP Anak</string>
+    <string name="mengatur_hp_anak">Mengatur HP Anak</string>
+    <string name="Mulai">mulai</string>
+    <string name="kode_keluarga">Kode Keluarga</string>
+    <string name="ketikan_kode_keluarga_yang_ayah_bunda_miliki_disini">Ketikan kode keluarga yang Ayah Bunda\nmiliki disini</string>
+    <string name="contoh_kode">Contoh : x4a859</string>
+    <string name="dengan_menekan">Dengan menekan tombol masuk berarti anda menyetujui <b>Ketentuan Pengguna</b> dan <b>Kebijakan Data</b> Kami</string>
+    <string name="butmasuk">Masuk</string>
+    <string name="belumpunya">Belum punya kode keluarga?</string>
+    <string name="belikode">Beli Kode Keluarga Disini</string>
+    <string name="panggilan">Nama Panggilan Kamu</string>
+    <string name="cthPangg">Nama : Budi</string>
+    <string name="umur">Umur Kamu</string>
+    <string name="cthUmur">Contoh : 12</string>
+    <string name="btn_selanjutnya">Selanjutnya</string>
+    <string name="txtAkhir">Beres! Sekarang kamu\nudah bisa ngecek\npenggunaan HP mu tiap hari buat bantu kamu ngatur waktu :)</string>
+    <string name="btnOk">Oke</string>
+
+</resources>
